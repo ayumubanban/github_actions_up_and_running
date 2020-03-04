@@ -1,3 +1,6 @@
+name: Continuous Integration
+on: push
+
 unit-test:
   name: Unit Test
   strategy:
